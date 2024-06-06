@@ -1,5 +1,8 @@
-## Hi there 👋
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/564x/46/d9/c8/46d9c8a9c1308b66a222112ce7d40787.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/564x/46/d9/c8/46d9c8a9c1308b66a222112ce7d40787.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://i.pinimg.com/564x/46/d9/c8/46d9c8a9c1308b66a222112ce7d40787.jpg">
+</picture>
 <!--
 **Alexuzj/Alexuzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
